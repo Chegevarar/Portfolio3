@@ -1,14 +1,16 @@
 title = "Seungkwon Choi"
-baseURL = "https://example.com"
+baseURL = "https://chegevarar.github.io/Portfolio3/"
 languageCode = "en-us"
 theme = "ananke"
 # themesDir = "../.."
 
+publishDir = "docs"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
+cannonifyURLs = true
 
 [sitemap]
   changefreq = "monthly"
